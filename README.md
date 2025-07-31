@@ -5,7 +5,6 @@ This is a Go (Golang) project using the [Gin](https://github.com/gin-gonic/gin) 
 ## Prerequisites
 
 - [Go](https://golang.org/dl/) version 1.18 or higher
-- Git installed
 
 ## Installation & Run
 
